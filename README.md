@@ -69,8 +69,8 @@ Un diagramme en barre représentant le score de chaque indicateur de différente
 **images/Ranking/**:    
 **'ranking_business_plan.png'** fichier image du diagramme en barre de performances (scores) de la catégorie "business plan". Les formations sanitaires sont classées dans le graphique par ordre décroissant. Du plus performant au moins. A noter que le score maximal de la catégorie et le score moyen du district pour cette catégorie ont été représenté par une couleur différente dans ce diagramme en barre.
 
-**images/Missing_values/**:
-**'heatmap_missing_value_CPN.png'** fichier d'une image heatmap des valeurs manquantes
+**images/Missing_values/**:                         
+**'heatmap_missing_value_CPN.png'** fichier image d'un graphique heatmap des valeurs manquantes
 
 **'pbf_dict_columns.py'**: fichier python qui contient un dictionnaire avec comme clés les noms actuels des colonnes (indicateurs) et comme valeurs les noms plus courts des colonnes désirés.
 
